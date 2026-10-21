@@ -94,6 +94,12 @@ export const MEMBERS: Member[] = [
     name: "chessie",
     buttonUrl: "https://chessie.cat/buttons/chessie-cat.gif",
     discordId: "699600164180066376",
+  },
+  {
+    url: "https://terrified.cc",
+    name: "deadpenguin",
+    buttonUrl: "https://terrified.cc/resources/88x31.png",
+    discordId: "1379582916861886527",
   }
 ];
 
