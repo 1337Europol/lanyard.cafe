@@ -101,6 +101,12 @@ export const MEMBERS: Member[] = [
     buttonUrl: "https://terrified.cc/resources/88x31.png",
     discordId: "1379582916861886527",
   }
+  {
+    url: "https://chimera-realm.foo",
+    name: "Chimera",
+    buttonUrl: "https://raw.githubusercontent.com/miliegoat/btuoon/refs/heads/main/Untitled.gif",
+    discordId: "736465046317563915",
+  },
 ];
 
 export function getMemberByUrl(url: string): Member | undefined {
