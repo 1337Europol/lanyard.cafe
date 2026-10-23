@@ -53,6 +53,11 @@ export const MEMBERS: Member[] = [
     discordId: "1471598614676766826",
   },
   {
+    url : "https://adem.lol",
+    name : "europol",
+    buttonUrl: "https://raw.githubusercontent.com/1337Europol/Certifications/refs/heads/main/prv%20(1).png",
+    discordId: "1491993293519851570",
+  {
     url: "https://milproject.xyz",
     name: "mae",
     buttonUrl:
